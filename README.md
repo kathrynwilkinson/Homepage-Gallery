@@ -4,7 +4,7 @@
 
 IN PROGRESS
 
-Homepage and Art Gallery for PhD Art Professor at University of Missouri
+Homepage and Art Gallery for PhD Art Professor
 
 Client will be able to post her research and artwork. Aims to be able to communicate with her students and collegues through use of this site and elevate her professional visibility overall.
 
