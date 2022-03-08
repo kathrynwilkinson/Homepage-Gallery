@@ -13,19 +13,19 @@ export default function Navigation () {
                     Gallery
                 </div>
                 <div className='nav-link'>
-                    Philosophy
-                </div>
-                <div className='nav-link'>
-                    CV
+                    Research
                 </div>
                 <div className='nav-link'>
                     Teaching
                 </div>
                 <div className='nav-link'>
-                    Research
+                    Philosophy
                 </div>
                 <div className='nav-link'>
                     Blog
+                </div>
+                <div className='nav-link'>
+                    CV
                 </div>
             </div>
         </div>
