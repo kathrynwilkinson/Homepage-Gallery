@@ -1,5 +1,5 @@
 import React from 'react';
-import './index.css';
+import './style.css';
 import Contact from '../Contact';
 import Creator from '../Creator';
 

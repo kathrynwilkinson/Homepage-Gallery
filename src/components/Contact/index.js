@@ -1,5 +1,5 @@
 import React from 'react';
-import './index.css';
+import './style.css';
 import email from '../../images/email.png'
 
 export default function Contact () {
