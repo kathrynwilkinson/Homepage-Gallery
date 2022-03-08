@@ -12,10 +12,10 @@ export default function Creator () {
                     <div className='term-of-use'>
                         <a href='' className='footer-text' target='_blank' rel='noreferrer'>TERMS OF USE</a>
                     </div>
-                    <div class='privacy-policy'>
+                    <div className='privacy-policy'>
                         <a href='' className='footer-text' target='_blank' rel='noreferrer'>PRIVACY POLICY</a>
                     </div>
-                    <div class='contact'>
+                    <div className='contact'>
                         <a href='' className='footer-text' target='_blank' rel='noreferrer'>CONTACT</a>
                     </div>
                 </div>

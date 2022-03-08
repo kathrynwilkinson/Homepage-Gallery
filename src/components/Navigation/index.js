@@ -1,32 +1,33 @@
-import React from 'react';
 import './style.css';
+import React from 'react';
+import { Link } from 'react-router-dom';
 
 export default function Navigation () {
     return (
         <div className='nav-wrapper'>
             <div className='nav'>
-                <div className='nav-link'>
+                <Link to='/' className='nav-link'>
                     {/* homepage */}
                     Welcome
-                </div>
-                <div className='nav-link'>
+                </Link>
+                <Link to='/gallery' className='nav-link'>
                     Gallery
-                </div>
-                <div className='nav-link'>
+                </Link>
+                <Link to='/research' className='nav-link'>
                     Research
-                </div>
-                <div className='nav-link'>
+                </Link>
+                <Link to='/teaching' className='nav-link'>
                     Teaching
-                </div>
-                <div className='nav-link'>
+                </Link>
+                <Link to='/philosophy' className='nav-link'>
                     Philosophy
-                </div>
-                <div className='nav-link'>
+                </Link>
+                <Link to='/blog' className='nav-link'>
                     Blog
-                </div>
-                <div className='nav-link'>
+                </Link>
+                <Link to='/cv' className='nav-link'>
                     CV
-                </div>
+                </Link>
             </div>
         </div>
     );

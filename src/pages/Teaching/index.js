@@ -2,11 +2,11 @@ import React from 'react';
 import Header from '../../components/Header';
 import Body from '../../components/Body';
 
-export default function Gallery () {
+export default function Teaching () {
     return (
-        <div className='gallery-page'>
+        <div className='teaching-page' id='teaching-page'>
             <Header />
-			<div>Gallery</div>
+            <div>Teaching</div>
             <Body />
         </div>
     );
