@@ -1,4 +1,4 @@
-<!-- * Using yarn -->
+<!-- * Using npm (not yarn) -->
 
 # Homepage+Gallery
 
