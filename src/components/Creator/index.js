@@ -3,9 +3,8 @@ import './style.css';
 
 export default function Creator () {
     return (
-        <div>
-            <footer>
-                <div className='footer-wrapper-1'>
+
+                <div className='footer-wrapper'>
                     <div className='copyright footer-text'>
                         &copy; K WILKINSON 2021
                 </div>
@@ -19,7 +18,5 @@ export default function Creator () {
                         <a href='' className='footer-text' target='_blank' rel='noreferrer'>CONTACT</a>
                     </div>
                 </div>
-            </footer>
-        </div>
     );
 }

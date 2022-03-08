@@ -1,6 +1,6 @@
 import './App.css';
 import React from 'react';
-import Navigation from './components/Navigation';
+import Header from './components/Header';
 import Footer from './components/Footer';
 import Home from './pages/Home';
 import Gallery from './pages/Gallery';
@@ -16,7 +16,7 @@ function App() {
 	return (
     <div className='App'>
       <Router>
-        <Navigation/>
+        <Header />
         <Routes>
           <Route exact path='/' element={<Home />} />
           <Route path='/gallery' element={<Gallery />} />

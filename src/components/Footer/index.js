@@ -5,11 +5,10 @@ import Creator from '../Creator';
 
 export default function Footer () {
     return (
-        <div>
-            <div className='footer'>
-                <Contact />
-                <Creator />
-            </div>
-        </div>
+
+        <footer>
+            <Contact />
+            <Creator />
+        </footer>
     );
 }
