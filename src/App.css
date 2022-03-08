@@ -11,9 +11,10 @@
     font-weight: 400;
     line-height: 1.15em;
 
-    height: 40vh;
+    min-height: 40vh;
 
     margin: 5em 2em;
-
-
+}
+.page-header {
+  text-align: center;
 }
