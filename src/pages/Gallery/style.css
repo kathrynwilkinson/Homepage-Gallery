@@ -9,18 +9,3 @@ div {
 	flex-wrap: wrap;
 	justify-content: center;
 }
-.gallery-card {
-	display: flex;
-	flex-direction: column;
-	margin: 1em;
-}
-.thumbnail {
-	height: 10em;
-	width: 8em;
-	/* background-color: ; */
-	display: flex;
-}
-.thumb-info {
-	display: flex;
-	padding: 1em 0.5em;
-}
