@@ -7,15 +7,23 @@
 .gallery-card {
 	display: flex;
 	flex-direction: column;
-	margin: 1em;
+	margin: 0.5em;
+	justify-content: center;
 }
 .thumbnail {
-	height: 10em;
-	width: 8em;
+	height: 12em;
+	width: 12em;
 	/* background-color: ; */
 	display: flex;
+	margin: auto;
 }
 .thumb-info {
 	display: flex;
 	padding: 1em 0.5em;
+	height: 2.5em;
+}
+.painting-titles {
+	font-size: 0.75em;
+	display: flex;
+	flex-wrap: wrap;
 }

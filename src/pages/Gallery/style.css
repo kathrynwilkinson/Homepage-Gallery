@@ -9,3 +9,5 @@ div {
 	flex-wrap: wrap;
 	justify-content: center;
 }
+
+/* append images to appropriate card (if it can't be done with data.json)*/
