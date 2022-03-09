@@ -1,9 +1,4 @@
 
-
-/* development */
-/* div {
-	border: .25px solid lightgrey;
-} */
 .gallery-card {
 	display: flex;
 	flex-direction: column;
@@ -19,8 +14,9 @@
 }
 .thumb-info {
 	display: flex;
-	padding: 1em 0.5em;
-	height: 2.5em;
+	padding: 0.5em;
+	height: 2em;
+	background-color: whitesmoke;
 }
 .painting-titles {
 	font-size: 0.75em;

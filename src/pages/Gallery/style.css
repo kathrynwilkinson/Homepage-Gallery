@@ -1,9 +1,9 @@
-
-
 /* development */
-div {
+
+/* div {
 	border: .25px solid lightgrey;
-}
+} */
+
 #gallery-card-container {
 	display: flex;
 	flex-wrap: wrap;
